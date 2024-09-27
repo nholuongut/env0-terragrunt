@@ -2,8 +2,6 @@
 
 A repo to explain the purpose of Terragrunt. The wordpress example is taken from: https://github.com/nholuongut/terraform-ec2-RDS-wordpress.
 
-This is also a good reference for Terragrunt: https://blog.gruntwork.io/terragrunt-how-to-keep-your-terraform-code-dry-and-maintainable-f61ae06959d8.
-
 ## Instructions
 
 ### First Try Terraform Only
